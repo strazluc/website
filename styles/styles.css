@@ -1,0 +1,12 @@
+body {
+    background-color: lavender;
+    text-align: center;
+}
+
+hr {
+    background-color: black;
+    border-style: groove;
+    border-top-style: dashed;
+    border-width: 5px;
+    width: 10%;
+}
